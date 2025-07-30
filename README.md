@@ -74,7 +74,7 @@
     3. 군집 모델 학습: `KMeans`를 활용하여 3개의 클러스터(`n_cluster=3`)로 분류 → 학습 진행
     4. 시각화
 
-
+![수행결과 이미지](image/지역별기후클러스터링결과과.png)
 * **클러스터링 분류 결과**
      * cluster 0 (<span style="color: orange;">주황색</span>): 평균 기온이 가장 높고, 습도는 중간 수준 → 한국에서 기온이 가장 높고 특이한 기후를 가진 지역
      * cluster 1 (<span style="color: yellowgreen;">연두색</span>): 기온 중상~중간, 습도는 낮은 수준 → 상대적으로 따뜻하고 건조한 특성을 가진 지역
@@ -89,8 +89,7 @@
     3. `KMeans`: 지역 군집화
 
 
-
-
+![수행결과 이미지](image/군집기반지역분류.png)
 * **군집 기반 지역 분류 결과**
      * cluster 0 (<span style="color: green;">초록색</span>): 평균 기온/습도가 중간 정도인 지역 → 기후적으로 가장 '평범한' 지역들
      * cluster 1 (<span style="color: orange;">주황색</span>): 낮은 평균 기온 / 높은 습도인 지역 → 기후적으로 '서늘하고 습한' 지역들
