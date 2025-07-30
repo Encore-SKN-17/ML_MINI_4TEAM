@@ -31,6 +31,9 @@
 
 ## ✅ 데이터 출처 목록
 
+| 데이터 이름                           | 파일 형식 / 수집 방법 | 출처 URL |
+|--------------------------------------|------------------------|----------|
+| 종관기상관측(ASOS) - 자료      |  CSV  / 직접 다운로드  | [바로가기](https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36) |
 
 ---
 
@@ -42,7 +45,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-CB3B27?style=for-the-badge&logo=matplotlib&logoColor=white">
   <img src="https://img.shields.io/badge/Seaborn-C93B3B?style=for-the-badge&logo=seaborn&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
