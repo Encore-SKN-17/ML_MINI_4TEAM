@@ -35,7 +35,7 @@
 | 데이터 이름                           | 파일 형식 / 수집 방법 | 출처 URL |
 |--------------------------------------|------------------------|----------|
 | 기상자료개방포털 - 종관기상관측(ASOS) - 자료      |  CSV  / 직접 다운로드  | [바로가기](https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36) |
-| 주택용 전력 데이터 - 자료      | CSV / 크롤링 통한 다운로드  | [원본 데이터](https://bigdata.kepco.co.kr/cmsmain.do?scode=S01&pcode=000166&pstate=L&redirect=Y)|
+| 전력데이터 개방 포털 시스템 - 주택용 전력 데이터 - 자료      | CSV / 크롤링 통한 다운로드  | [원본 데이터](https://bigdata.kepco.co.kr/cmsmain.do?scode=S01&pcode=000166&pstate=L&redirect=Y)|
 
 ---
 
